@@ -1,0 +1,3 @@
+Friday~Gabriel Ortega~It's Friday
+Sending Mail with PHP~Gabriel Ortega~What are the three arguments required for the mail function?
+PHP and Directories~Gabriel Ortega~What function returns an indexed array containing the names of files and directories in the specified directories?

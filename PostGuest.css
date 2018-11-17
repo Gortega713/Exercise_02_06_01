@@ -1,0 +1,14 @@
+/*
+    Author: Gabriel Ortega
+    Date: 10.31.18
+
+    Filename: PostGuest.css
+*/
+
+html {
+    background-color: antiquewhite;
+}
+
+input:focus {
+    background-color: lightgoldenrodyellow;
+}
